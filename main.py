@@ -14,7 +14,7 @@ url = 'https://www.googleapis.com/youtube/v3/commentThreads'
 
 
 # Video ID
-video_id = 'kV7YaA0MKm0'
+video_id = 'video id'
 
 # Parameters
 params = {
